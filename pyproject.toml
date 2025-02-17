@@ -1,10 +1,10 @@
 [build-system]
-requires = ["hatchling"]
+requires = ["hatchling", "altair"]
 build-backend = "hatchling.build"
 
 [project]
 name = "kaipymeleon"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Kai Aragaki", email="kaiaragaki@proton.me"},
 ]
