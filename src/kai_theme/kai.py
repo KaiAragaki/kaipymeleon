@@ -14,8 +14,7 @@ def theme_kai():
         "config": {
             "view": {"strokeOpacity": 0},
             "background": palette["bg"],
-            "mark": {"color": "red", "fill": mark_color, "stroke": mark_color, "fillOpacity": 1},
-            "rule": {"color": mark_color, "stroke": mark_color},
+            "mark": {"color": mark_color, "fill": mark_color, "stroke": mark_color, "fillOpacity": 1},
             "title": {"color": "white"},
             "header": {"labelColor": "white", "titleColor": "white"},
             "axis": {"labelColor": "white", "titleColor": "white", "gridOpacity": 0.2},
