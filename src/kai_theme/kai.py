@@ -15,6 +15,7 @@ def theme_kai():
             "view": {"strokeOpacity": 0},
             "background": palette["bg"],
             "mark": {"color": mark_color, "fill": mark_color, "stroke": mark_color, "fillOpacity": 1},
+            "legend": {"titleColor": "white", "labelColor": "white"},
             "rule": {"color": mark_color, "stroke": mark_color},
             "title": {"color": "white"},
             "header": {"labelColor": "white", "titleColor": "white"},
